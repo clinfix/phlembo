@@ -2,4 +2,4 @@ if(typeof stef === "undefined"){
     stef = {};   
 }
 
-stef.srv_loc = "https://newmaxbattery-kr.co/hl/";
+stef.srv_loc = "https://tyroneee.com/hl/";
